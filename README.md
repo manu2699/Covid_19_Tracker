@@ -17,6 +17,16 @@ We get data from [COVID-19_INDIA.ORG](https://api.covid19india.org "COVID-19 Ind
 ##  SCREENSHOTS 📸
 <img src="https://w3devz.now.sh/covid19tracker/img/home_screen.jpeg" width="300" style="border-radius: 15px">&nbsp; <img src="https://w3devz.now.sh/covid19tracker/img/map_screen.jpeg" width="300" style="border-radius: 15px">
 
+------------
+
+
+<img src="https://w3devz.now.sh/covid19tracker/img/location_screen.jpeg" width="300" style="border-radius: 15px">&nbsp;<img src="https://w3devz.now.sh/covid19tracker/img/spreadscreen.jpeg" width="300" style="border-radius: 15px">
+
+------------
+<img src="https://w3devz.now.sh/covid19tracker/img/precauton_screen.jpeg" width="300" style="border-radius: 15px">
+
+
+
 ## REQUIREMENTS (For Developers) 💻
 -  Any Operating System (i.e MacOS X, Linux, Windows)
 -  Any IDE with Android SDK installed along with JDK and Node.js
