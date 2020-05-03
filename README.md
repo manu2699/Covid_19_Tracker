@@ -1,8 +1,8 @@
 #  🇮🇳 📈 COVID-19 TRACKER
 
-> **[🌐 VISIT WEBSITE ](HTTPS://W3DEVZ.NOW.SH/COVID19TRACKER.HTML "VISIT WEBSITE 🌐")**
+> **[🌐 VISIT WEBSITE ](https://w3devz.now.sh/covid19tracker.html "VISIT WEBSITE 🌐")**
 
-> **[🔽 DOWNLOAD APK](HTTPS://W3DEVZ.NOW.SH/COVID19TRACKER/COVID_19_TRACKER.APK "DOWNLOAD APK")**
+> **[🔽 DOWNLOAD APK](https://w3devz.now.sh/covid19tracker/COVID_19_TRACKER.apk "DOWNLOAD APK")**
 
 > A simple React native app to track COVID-19 cases in India.
 We get data from [COVID-19_INDIA.ORG](https://api.covid19india.org "COVID-19 India.org") and distance calculation from [COVID-19 TRACKER](https://www.coronatracker.in/ "COVID-19 Tracker"). 
