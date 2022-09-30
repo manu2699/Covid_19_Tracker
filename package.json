@@ -14,7 +14,7 @@
     "@react-navigation/native": "^5.1.5",
     "@svg-maps/india": "^1.0.0",
     "axios": "^0.19.2",
-    "d3": "^5.15.1",
+    "d3": "^7.6.1",
     "lottie-react-native": "^3.3.2",
     "react": "16.11.0",
     "react-dom": "^16.13.1",
